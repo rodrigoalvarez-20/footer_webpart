@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "footer-web-part",
+    "id": "7a36f4d6-9bd5-48ae-a454-43e89603cd82",
+    "version": "1.0.0.4",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/footer-web-part.sppkg"
+  }
+}

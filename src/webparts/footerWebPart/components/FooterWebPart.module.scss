@@ -1,0 +1,10 @@
+@import '~office-ui-fabric-react/dist/sass/References.scss';
+
+.container {
+  background-color: $ms-color-themePrimary;
+  color: white;
+}
+
+.text-primary{
+  color: $ms-color-themeLight;
+}
